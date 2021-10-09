@@ -10,5 +10,5 @@ all you need is:
 
 steps:
 * clone this repository or start with a copy of it a new one
-* click on "Open a remote window", select "Open Remote Repository", edit the container definition files if needed
+* click on "Open a remote window", select "Open Remote Repository", edit the container definition files in *your* repososity if needed
 * click on "Open a remote window", select "Continue working on" to start everything in a container
